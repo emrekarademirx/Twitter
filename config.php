@@ -1,0 +1,9 @@
+<?php
+
+// Twitter API Bağlantı Bilgileri
+define('CONSUMER_KEY', 'YOUR_CONSUMER_KEY');
+define('CONSUMER_SECRET', 'YOUR_CONSUMER_SECRET');
+define('ACCESS_TOKEN', 'YOUR_ACCESS_TOKEN');
+define('ACCESS_TOKEN_SECRET', 'YOUR_ACCESS_TOKEN_SECRET');
+
+?>
