@@ -18,3 +18,8 @@ foreach ($likes as $like) {
 }
  
 ?>
+
+
+// Bu kodu kullanabilmek için twitteroauth adlı bir kütüphane kullanmanız gerekmektedir. İndirme linki: https://github.com/abraham/twitteroauth
+
+Ayrıca, CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ve ACCESS_TOKEN_SECRET değişkenlerini Twitter API anahtarınız ile değiştirmeniz gerekmektedir.
